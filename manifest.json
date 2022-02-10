@@ -1,0 +1,10 @@
+{
+  "manifest_version": 1,
+  "name": "Mutify",
+  "description": "Mutes annoying Spotify ads for something soothing maybe.",
+  "version": "1.0.0",
+  "permissions": ["tabs"],
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
