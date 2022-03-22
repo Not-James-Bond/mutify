@@ -1,5 +1,5 @@
 {
-  "manifest_version": 1,
+  "manifest_version": 2,
   "name": "Mutify",
   "description": "Mutes annoying Spotify ads for something soothing maybe.",
   "version": "1.0.0",
